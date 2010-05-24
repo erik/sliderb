@@ -1,0 +1,93 @@
+[{:background => 0xFF3333, :text => [
+  [{:size => 45, :color => 0x2C2C2C},
+   "The Ruby Programming Language", 0, 10],
+  [{:size => 15, :color => 0x000000},
+   "By: Erik Price", 35, 15]]},
+                                        
+ {:background => 0xFF3333, :text => [
+  [{:size => 25, :color => 0x3C3C3C},
+"Ruby is a dynamic, reflective, general purpose\n
+object-oriented programming language that combines\n
+syntax inspired by Perl with Smalltalk-like features.\n
+Ruby originated in Japan during the mid-1990s and was\n
+initially developed and designed by Yukihiro \"Matz\"\n
+Matsumoto. It was influenced primarily by Perl,\n
+Smalltalk, Eiffel, and Lisp.\n\n
+Ruby supports multiple programming paradigms, including\n
+functional, object oriented, imperative and reflective.\n
+It also has a dynamic type system and automatic memory\n
+management; it is therefore similar in varying respects\n
+to Python, Perl, Lisp, Dylan, Pike, and CLU.", 1, 20]]},
+
+ {:background => 0xFF3333, :text => [
+  [{:size => 25, :color => 0x3C3C3C},
+"Around 2005, interest in the Ruby language\n
+surged in tandem with Ruby on Rails, a popular\n
+web application framework written in Ruby.\n
+Rails is frequently credited with making Ruby\n
+\"famous\" and the association is so strong\n
+that the two are often conflated by programmers\n
+who are new to Ruby.\n\n\n
+Ruby on Rails, often shortened to Rails or \n
+RoR, is an open source web application\n
+framework for the Ruby programming language.\n
+It is intended to be used with an Agile\n
+development methodology that is used by web\n
+developers for rapid development", 1, 20]]}, 
+
+ {:background => 0xFF3333, :text => [
+  [{:size => 25, :color => 0x3C3C3C},
+"Matsumoto has said that Ruby is designed for\n
+programmer productivity and fun, following the\n
+principles of good user interface design. He \n
+stresses that systems design needs to emphasize\n
+human, rather than computer, needs:\n\n
+   \"Often people, especially computer engineers,\n
+    focus on the machines. They think, \"By doing \n
+    this, the machine will run faster. By doing \n
+    this, the machine will run more effectively. \n
+    By doing this, the machine will something \n
+    something something.\" They are focusing \n
+    on machines. But in fact we need to focus \n
+    on humans, on how humans care about doing \n
+    programming or operating the application \n
+    of the machines. We are the masters. \n
+    They are the slaves.\"", 1, 20]]},
+  {:background => 0xFF3333, :text => [
+    [{:size => 17, :color => 0x3C3C3C},
+"Features\n
+    * Thoroughly object-oriented with inheritance,\n
+    mixins and metaclasses\n
+    * Dynamic typing and Duck typing\n
+    * Everything is an expression (even statements)\n
+    and everything is executed imperatively (even declarations)\n
+    * Succinct and flexible syntax that minimizes\n
+    syntactic noise and serves as a foundation for domain specific languages\n
+    * Dynamic reflection and alteration of objects to\n
+    facilitate metaprogramming\n
+    * Lexical closures, Iterators and generators, with\n
+    a unique block syntax\n
+    * Literal notation for arrays, hashes, regular\n
+    expressions and symbols\n
+    * Embedding code in strings (interpolation)\n
+    * Default arguments\n
+    * Four levels of variable scope (global, class,\n
+    instance, and local) denoted by sigils and capitalization\n
+    * Automatic garbage collection\n
+    * First-class continuations\n
+    * Strict boolean coercion rules (everything is\n
+    true except false and nil)\n
+    * Exception handling\n
+    * Operator overloading\n
+    * Built-in support for rational numbers, complex\n
+    numbers and arbitrary-precision arithmetic\n
+    * Custom dispatch behavior (through method_missing\n
+    and const_missing)\n
+    * Native threads and cooperative fibers\n
+    * Initial support for Unicode and multiple\n
+    character encodings (still buggy as of version 1.9)\n
+    * Native plug-in API in C\n
+    * Interactive Ruby Shell (a REPL)\n
+    * Centralized package management through RubyGems\n
+    * Implemented on all major platforms\n
+    * Large standard library", 1, 10]]}]
